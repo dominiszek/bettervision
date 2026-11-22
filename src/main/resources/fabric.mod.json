@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "bettervision",
+  "version": "${version}",
+  "name": "BetterVision",
+  "description": "Linie do graczy i mobow oraz nametagi z HP i dystansem.",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.bettervision.BetterVisionClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

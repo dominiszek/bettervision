@@ -1,0 +1,7 @@
+{
+  "key.category.bettervision.main": "BetterVision",
+  "key.bettervision.toggle": "Toggle BetterVision",
+  "key.bettervision.players": "Toggle player tracers",
+  "key.bettervision.mobs": "Toggle mob tracers",
+  "key.bettervision.nametags": "Toggle nametags (name, HP, distance)"
+}
